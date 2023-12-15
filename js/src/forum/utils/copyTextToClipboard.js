@@ -22,5 +22,6 @@ export default function copyTextToClipboard(text) {
     fallbackCopyTextToClipboard(text);
     return;
   }
+
   navigator.clipboard.writeText(text);
 }
