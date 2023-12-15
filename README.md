@@ -25,4 +25,4 @@ php flarum cache:clear
 
 - [Packagist](https://packagist.org/packages/datlechin/flarum-copy-links)
 - [GitHub](https://github.com/datlechin/flarum-copy-links)
-- [Discuss](https://discuss.flarum.org/d/PUT_DISCUSS_SLUG_HERE)
+- [Discuss](https://discuss.flarum.org/d/33808)
