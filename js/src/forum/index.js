@@ -8,7 +8,7 @@ import copyTextToClipboard from './utils/copyTextToClipboard';
 
 app.initializers.add('datlechin/flarum-copy-links', () => {
   const CopyLinkButtonComponent = (route) => {
-    const url = app.forum.attribute('baseUrl') + route;
+    const url = window.location.origin + route;
 
     return (
       <Button
